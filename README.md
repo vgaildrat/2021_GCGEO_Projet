@@ -8,13 +8,14 @@ Dans ce dépôt
 
 Pour lancer le programme principal de l'application :
 ----------------------------------------------------
-1) Saisir les noms de fichiers .stl ou .model un par un (par exemple sphere6.stl), sans préciser le chemin d'accès, le programme va les chercher dans le répertoire data.
-2) Terminer par <entrée> seule.
-3) Saisir ensuite la position de la source lumineuse en donnant ses coordonnées en x, y, et z.
+1) Le programme principal se trouve dans le fichier main.m.
+2) Saisir les noms de fichiers .stl ou .model un par un (par exemple sphere6.stl), sans préciser le chemin d'accès, le programme va les chercher dans le répertoire data.
+3) Terminer par <entrée> seule.
+4) Saisir ensuite la position de la source lumineuse en donnant ses coordonnées en x, y, et z.
 
 Version avec sur-échantillonnage aléatoire :
 --------------------------------------------
-4) Ajouter la saisie du taux de sur-échantillonnage.
+5) Ajouter la saisie du taux de sur-échantillonnage.
 
 
 Travail à rendre 
