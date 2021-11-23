@@ -21,7 +21,7 @@ Version avec sur-échantillonnage aléatoire :
 Travail à rendre 
 ----------------
 
-Vous devrez rendre pour le dimanche 14 janvier 2022 23h55 GMT dernier délai par voie électronique (sur Moodle pour Véronique Gaildrat et par mail pour Philippe.Truillet@irit.fr, suivant votre groupe de TP) : 
+Vous devrez rendre pour le dimanche 16 janvier 2022 23h55 GMT dernier délai par voie électronique (sur Moodle pour Véronique Gaildrat et par mail pour Philippe.Truillet@irit.fr, suivant votre groupe de TP) : 
 
 - Les fichiers .m que vous aurez complétés dans le code fourni.
 - Un rapport donnant les réponses posées dans le sujet, et décrivant les algorithmes que vous aurez programmés en expliquant votre démarche de travail.
