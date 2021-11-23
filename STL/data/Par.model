@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model xmlns="http://schemas.microsoft.com/3dmanufacturing/core/2015/02" unit="centimeter" xml:lang="en-US" xmlns:m="http://schemas.microsoft.com/3dmanufacturing/material/2015/02" xmlns:p="http://schemas.microsoft.com/3dmanufacturing/production/2015/06" xmlns:b="http://schemas.microsoft.com/3dmanufacturing/beamlattice/2017/02" xmlns:s="http://schemas.microsoft.com/3dmanufacturing/slice/2015/07" xmlns:sc="http://schemas.microsoft.com/3dmanufacturing/securecontent/2019/04">
+	<resources>
+		<m:colorgroup id="2">
+			<m:color color="#A427EEFF"/>
+			<m:color color="#A0A0A0FF"/>
+		</m:colorgroup>
+		<object id="1" name="Body1" type="model" p:UUID="fed38c2e-9aba-4b07-c3ef-80a21795f940" pid="2" pindex="0">
+			<mesh>
+				<vertices>
+					<vertex x="0" y="2.500000" z="1.000000" />
+					<vertex x="1.500000" y="2.500000" z="1.000000" />
+					<vertex x="1.500000" y="2.500000" z="0" />
+					<vertex x="0" y="2.500000" z="0" />
+					<vertex x="1.500000" y="0" z="1.000000" />
+					<vertex x="0" y="0" z="1.000000" />
+					<vertex x="0" y="0" z="0" />
+					<vertex x="1.500000" y="0" z="0" />
+				</vertices>
+				<triangles>
+					<triangle v1="1" v2="2" v3="0" />
+					<triangle v1="0" v2="2" v3="3" />
+					<triangle v1="5" v2="6" v3="4" />
+					<triangle v1="4" v2="6" v3="7" />
+					<triangle v1="3" v2="6" v3="0" />
+					<triangle v1="0" v2="6" v3="5" />
+					<triangle v1="2" v2="7" v3="3" />
+					<triangle v1="3" v2="7" v3="6" />
+					<triangle v1="1" v2="4" v3="2" />
+					<triangle v1="2" v2="4" v3="7" />
+					<triangle v1="0" v2="5" v3="1" />
+					<triangle v1="1" v2="5" v3="4" />
+				</triangles>
+			</mesh>
+		</object>
+	</resources>
+	<build p:UUID="0242892c-70ba-45f8-a2de-60141e55a4c5">
+		<item objectid="1" p:UUID="bbce79b0-e528-4bf7-abf4-07c20c716c5a"/>
+	</build>
+</model>
